@@ -14,8 +14,12 @@
     "loremIpsum": "Lorem ipsum dolor sit amet, unum corrumpit ea mei, has latine instructior no, simul choro senserit at qui! In eam copiosae efficiendi, vis iuvaret nominati cu. In mel possit tincidunt! Has in vidisse convenire. Vis deleniti rationibus definiebas ea, autem partem vim id?"
   },
   {
-    "code": "cz",
-    "name": "Czech",
+    "languages": [
+      {
+        "code": "cz",
+        "name": "Czech"
+      }
+    ],
     "loremIpsum": "Lorem ipsum dolor šit amét, šůmmo mundi eloquenťíam eum id? Malis aliquam vix cu, quodsi dólorum id vim, te mučiús cétero čompreheňsám sěd. Nó accumsán mentitum antiopam nam! Nóstro ornatus sčriptorem neč ex, ešt ťe štet ornatůs. Íllům aúďire iracundia siť aň, pri próbo copiósae ťempoříbús ex. Dúo cu ludúš nošter!"
   },
   {
