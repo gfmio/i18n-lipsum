@@ -1,0 +1,10 @@
+{
+  "name": "i18n-lipsum",
+  "version": "1.0.0",
+  "description": "Lorem Ipsum in lots of different languages for i18n testing",
+  "main": "index.json",
+  "repository": "https://github.com/gfmio/i18n-lipsum",
+  "author": "Frédérique Mittelstaedt <npm@gfm.io> (https://www.gfm.io)",
+  "license": "MIT",
+  "private": false
+}
